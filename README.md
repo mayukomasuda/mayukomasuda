@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there
 
-- 📫 How to reach me: mayukomasuda at gmail dot com
+- How to reach me: mayukomasuda at gmail dot com
 
 <!--
 **mayukomasuda/mayukomasuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
